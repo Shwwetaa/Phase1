@@ -17,7 +17,7 @@
 
   <servlet-mapping>
         <servlet-name>NameServlet</servlet-name>
-        <url-pattern>/NameServlet</url-pattern>
+        <url-pattern>/name</url-pattern>
    </servlet-mapping>
 
 </web-app>

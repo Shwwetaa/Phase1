@@ -15,4 +15,3 @@
 <a href="logout.jsp">Click here to logout</a>
 </body>
 </html>
-</html>

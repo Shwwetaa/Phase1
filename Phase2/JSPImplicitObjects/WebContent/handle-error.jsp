@@ -14,5 +14,3 @@
 An exception was generated. Details are above:<br>
 </body>
 </html>
-    
-    
